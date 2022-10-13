@@ -5,13 +5,13 @@
 Install with the command:
 
 ```
-npm install --save devcamp-js-footer
+npm install --save jlrc-devcamp-js-footer
 ```
 
 add to a JavaScript Project with the following code:
 
 ```javascript
-import { footer } from 'devcamp-js-footer';
+import { footer } from 'jlrc-devcamp-js-footer';
 
 footer('Some Name');
 ```
