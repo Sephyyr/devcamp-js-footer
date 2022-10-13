@@ -1,5 +1,5 @@
 {
-  "name": "JLRC-devcamp-js-footer",
+  "name": "jlrc-devcamp-js-footer",
   "version": "0.1.0",
   "description": "This module allows for a dynamic footer to be generated for JS applications with and updated year and name.",
   "main": "index.js",
